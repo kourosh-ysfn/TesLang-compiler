@@ -1,2 +1,2 @@
 # TesLang-Compiler
-Final Project of 'Basics of Compiler Design' University Course
+The final project of 'Basics of Compiler Design' university course
